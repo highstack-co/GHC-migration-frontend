@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "https://dex.galaxyheroescoin.com/static/css/bundle.min.css",
-    "main.js": "https://dex.galaxyheroescoin.com/static/js/bundle.js",
-    "main.js.map": "https://dex.galaxyheroescoin.com/static/js/bundle.js.map",
-    "index.html": "https://dex.galaxyheroescoin.com/index.html",
-    "static/css/bundle.min.css.map": "https://dex.galaxyheroescoin.com/static/css/bundle.min.css.map",
-    "static/js/bundle.js.LICENSE.txt": "https://dex.galaxyheroescoin.com/static/js/bundle.js.LICENSE.txt",
-    "static/media/inter.css": "https://dex.galaxyheroescoin.com/static/media/Inter.var.c2fe3cb2.woff2",
-    "static/media/background.0b634060.webp": "https://dex.galaxyheroescoin.com/static/media/background.0b634060.webp",
-    "static/media/style.css": "https://dex.galaxyheroescoin.com/static/media/black-bubble.1fc1691b.ttf"
+    "main.css": "https://galaxymigrations.com/static/css/bundle.min.css",
+    "main.js": "https://galaxymigrations.com/static/js/bundle.js",
+    "main.js.map": "https://galaxymigrations.com/static/js/bundle.js.map",
+    "index.html": "https://galaxymigrations.com/index.html",
+    "static/css/bundle.min.css.map": "https://galaxymigrations.com/static/css/bundle.min.css.map",
+    "static/js/bundle.js.LICENSE.txt": "https://galaxymigrations.com/static/js/bundle.js.LICENSE.txt",
+    "static/media/inter.css": "https://galaxymigrations.com/static/media/Inter.var.c2fe3cb2.woff2",
+    "static/media/background.0b634060.webp": "https://galaxymigrations.com/static/media/background.0b634060.webp",
+    "static/media/style.css": "https://galaxymigrations.com/static/media/black-bubble.1fc1691b.ttf"
   },
   "entrypoints": [
     "static/css/bundle.min.css",
