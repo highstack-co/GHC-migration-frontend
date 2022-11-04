@@ -1,6 +1,6 @@
 {
-  "short_name": "PMNFT Bridge",
-  "name": "PMNFT Bridge",
+  "short_name": "GHC Migrator",
+  "name": "GHC Migrator",
   "icons": [
     {
       "src": "./images/logo-circle.png",
